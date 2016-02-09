@@ -1,7 +1,7 @@
 {
   "name": "connect-ibmdatacache",
   "description": "IBM Datacache session store for Connect",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Glynn Bird <glynn.bird@gmail.com>",
   "license": "Apache-2.0",
   "main": "./index.js",
@@ -10,7 +10,7 @@
     "url": "git@github.com:glyn/gbird/connect-ibmdatacache.git"
   },
   "dependencies": {
-    "bluemixdatacache": "0.1.1",
+    "bluemixdatacache": "0.1.2",
     "debug": "2.2.0"
   }
 }
